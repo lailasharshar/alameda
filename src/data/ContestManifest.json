@@ -1,0 +1,1319 @@
+{
+  "Version": "5.10.50.85",
+  "List": [
+    {
+      "Description": "President and Vice President",
+      "Id": 1,
+      "ExternalId": "7164",
+      "DistrictId": 101,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "U.S. Senator, Full Term",
+      "Id": 2,
+      "ExternalId": "7165",
+      "DistrictId": 101,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "U.S. Senator, Partial/Unexpired Term",
+      "Id": 3,
+      "ExternalId": "7166",
+      "DistrictId": 101,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "U.S. Representative, 10th Congressional District",
+      "Id": 4,
+      "ExternalId": "7167",
+      "DistrictId": 102,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "U.S. Representative, 12th Congressional District",
+      "Id": 5,
+      "ExternalId": "7168",
+      "DistrictId": 103,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "U.S. Representative, 14th Congressional District",
+      "Id": 6,
+      "ExternalId": "7169",
+      "DistrictId": 104,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "U.S. Representative, 17th Congressional District",
+      "Id": 7,
+      "ExternalId": "7170",
+      "DistrictId": 105,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "State Senator, 5th District",
+      "Id": 8,
+      "ExternalId": "7171",
+      "DistrictId": 106,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "State Senator, 7th District",
+      "Id": 9,
+      "ExternalId": "7172",
+      "DistrictId": 107,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "State Senator, 9th District",
+      "Id": 10,
+      "ExternalId": "7173",
+      "DistrictId": 108,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "State Assembly, 14th District",
+      "Id": 11,
+      "ExternalId": "7174",
+      "DistrictId": 110,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "State Assembly, 16th District",
+      "Id": 12,
+      "ExternalId": "7175",
+      "DistrictId": 111,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "State Assembly, 18th District",
+      "Id": 13,
+      "ExternalId": "7176",
+      "DistrictId": 112,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "State Assembly, 20th District",
+      "Id": 14,
+      "ExternalId": "7177",
+      "DistrictId": 113,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "State Assembly, 24th District",
+      "Id": 15,
+      "ExternalId": "7178",
+      "DistrictId": 114,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Chabot-Las Positas CCD Trustee, Area 1",
+      "Id": 16,
+      "ExternalId": "7185",
+      "DistrictId": 117,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Chabot-Las Positas CCD Trustee, Area 4",
+      "Id": 17,
+      "ExternalId": "7186",
+      "DistrictId": 118,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Peralta CCD Trustee, Area 2",
+      "Id": 18,
+      "ExternalId": "7286",
+      "DistrictId": 119,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "San Joaquin Delta CCD Trustee, Area 1",
+      "Id": 19,
+      "ExternalId": "7287",
+      "DistrictId": 116,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "San Joaquin Delta CCD Trustee, Area 2",
+      "Id": 20,
+      "ExternalId": "7288",
+      "DistrictId": 116,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "San Joaquin Delta CCD Trustee, Area 6",
+      "Id": 21,
+      "ExternalId": "7290",
+      "DistrictId": 116,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Alameda USD Governing Board Members",
+      "Id": 22,
+      "ExternalId": "7189",
+      "DistrictId": 120,
+      "VoteFor": 3,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Castro Valley USD Governing Board Member, Area 5",
+      "Id": 23,
+      "ExternalId": "7192",
+      "DistrictId": 131,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Dublin USD Governing Board Member, Area 1",
+      "Id": 24,
+      "ExternalId": "7193",
+      "DistrictId": 132,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Emery USD Governing Board Members",
+      "Id": 25,
+      "ExternalId": "7196",
+      "DistrictId": 122,
+      "VoteFor": 2,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Fremont USD Governing Board Member, Area 4",
+      "Id": 26,
+      "ExternalId": "7198",
+      "DistrictId": 133,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Hayward USD Governing Board Members",
+      "Id": 27,
+      "ExternalId": "7200",
+      "DistrictId": 124,
+      "VoteFor": 3,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Lammersville Joint USD Governing Board Member, Area 1",
+      "Id": 28,
+      "ExternalId": "7310",
+      "DistrictId": 134,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Livermore Valley Joint USD Governing Board Members",
+      "Id": 29,
+      "ExternalId": "7201",
+      "DistrictId": 125,
+      "VoteFor": 2,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "New Haven USD Governing Board Member, Area 1",
+      "Id": 30,
+      "ExternalId": "7307",
+      "DistrictId": 135,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "New Haven USD Governing Board Member, Area 2",
+      "Id": 31,
+      "ExternalId": "7308",
+      "DistrictId": 136,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "New Haven USD Governing Board Member, Area 3",
+      "Id": 32,
+      "ExternalId": "7309",
+      "DistrictId": 137,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Newark USD Governing Board Members",
+      "Id": 33,
+      "ExternalId": "7292",
+      "DistrictId": 127,
+      "VoteFor": 3,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Pleasanton USD Governing Board Member, Area 3",
+      "Id": 34,
+      "ExternalId": "7294",
+      "DistrictId": 142,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Pleasanton USD Governing Board Member, Area 4",
+      "Id": 35,
+      "ExternalId": "7295",
+      "DistrictId": 143,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "San Lorenzo USD Governing Board Member, Area 5",
+      "Id": 36,
+      "ExternalId": "7213",
+      "DistrictId": 144,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Sunol Glen USD Governing Board Member",
+      "Id": 37,
+      "ExternalId": "7306",
+      "DistrictId": 130,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Supervisor, 5th District",
+      "Id": 38,
+      "ExternalId": "7216",
+      "DistrictId": 150,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Recall Pamela Price",
+      "Id": 39,
+      "ExternalId": "7361",
+      "DistrictId": 145,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Members, City Council - Alameda",
+      "Id": 40,
+      "ExternalId": "7217",
+      "DistrictId": 151,
+      "VoteFor": 2,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Auditor - Alameda",
+      "Id": 41,
+      "ExternalId": "7218",
+      "DistrictId": 151,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Treasurer - Alameda",
+      "Id": 42,
+      "ExternalId": "7219",
+      "DistrictId": 151,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Rent Stabilization Board Commissioners - Berkeley",
+      "Id": 43,
+      "ExternalId": "7228",
+      "DistrictId": 153,
+      "VoteFor": 4,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "School Directors - Berkeley",
+      "Id": 44,
+      "ExternalId": "7227",
+      "DistrictId": 153,
+      "VoteFor": 2,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Mayor - Dublin",
+      "Id": 45,
+      "ExternalId": "7229",
+      "DistrictId": 154,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 1 - Dublin",
+      "Id": 46,
+      "ExternalId": "7296",
+      "DistrictId": 169,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 3 - Dublin",
+      "Id": 47,
+      "ExternalId": "7297",
+      "DistrictId": 170,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Members, City Council - Emeryville",
+      "Id": 48,
+      "ExternalId": "7230",
+      "DistrictId": 155,
+      "VoteFor": 3,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Mayor - Fremont",
+      "Id": 49,
+      "ExternalId": "7231",
+      "DistrictId": 156,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 1 - Fremont",
+      "Id": 50,
+      "ExternalId": "7232",
+      "DistrictId": 171,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 5 - Fremont",
+      "Id": 51,
+      "ExternalId": "7233",
+      "DistrictId": 172,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 6 - Fremont",
+      "Id": 52,
+      "ExternalId": "7234",
+      "DistrictId": 173,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Members, City Council - Hayward",
+      "Id": 53,
+      "ExternalId": "7235",
+      "DistrictId": 157,
+      "VoteFor": 4,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Mayor - Livermore",
+      "Id": 54,
+      "ExternalId": "7239",
+      "DistrictId": 158,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 3 - Livermore",
+      "Id": 55,
+      "ExternalId": "7240",
+      "DistrictId": 174,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 4 - Livermore",
+      "Id": 56,
+      "ExternalId": "7241",
+      "DistrictId": 175,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Mayor - Newark",
+      "Id": 57,
+      "ExternalId": "7242",
+      "DistrictId": 159,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Members, City Council - Newark, Full Term",
+      "Id": 58,
+      "ExternalId": "7243",
+      "DistrictId": 159,
+      "VoteFor": 2,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council - Newark, Short Term",
+      "Id": 59,
+      "ExternalId": "7311",
+      "DistrictId": 159,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Members, City Council - Piedmont",
+      "Id": 60,
+      "ExternalId": "7251",
+      "DistrictId": 161,
+      "VoteFor": 2,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Members, Board of Education - Piedmont",
+      "Id": 61,
+      "ExternalId": "7252",
+      "DistrictId": 161,
+      "VoteFor": 3,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Mayor - Pleasanton",
+      "Id": 62,
+      "ExternalId": "7253",
+      "DistrictId": 162,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 2 - Pleasanton",
+      "Id": 63,
+      "ExternalId": "7254",
+      "DistrictId": 180,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 4 - Pleasanton",
+      "Id": 64,
+      "ExternalId": "7255",
+      "DistrictId": 181,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 1, Short Term - San Leandro",
+      "Id": 65,
+      "ExternalId": "7256",
+      "DistrictId": 163,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 2, Full Term - San Leandro",
+      "Id": 66,
+      "ExternalId": "7257",
+      "DistrictId": 163,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 4, Full Term - San Leandro",
+      "Id": 67,
+      "ExternalId": "7258",
+      "DistrictId": 163,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 6, Full Term - San Leandro",
+      "Id": 68,
+      "ExternalId": "7259",
+      "DistrictId": 163,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Mayor - Union City",
+      "Id": 69,
+      "ExternalId": "7260",
+      "DistrictId": 164,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 1 - Union City",
+      "Id": 70,
+      "ExternalId": "7261",
+      "DistrictId": 182,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "AC Transit District Director, Ward 6",
+      "Id": 71,
+      "ExternalId": "7303",
+      "DistrictId": 199,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Alameda County Water District Director, Ward 5",
+      "Id": 72,
+      "ExternalId": "7300",
+      "DistrictId": 202,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "BART Director, District 5",
+      "Id": 73,
+      "ExternalId": "7263",
+      "DistrictId": 188,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "BART Director, District 7",
+      "Id": 74,
+      "ExternalId": "7264",
+      "DistrictId": 189,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Members, Board of Directors, Castro Valley Sanitary District",
+      "Id": 75,
+      "ExternalId": "7272",
+      "DistrictId": 197,
+      "VoteFor": 3,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Dublin-San Ramon Services District Director, Area 3",
+      "Id": 76,
+      "ExternalId": "7265",
+      "DistrictId": 190,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "East Bay Municipal Utility District Director, Ward 5",
+      "Id": 77,
+      "ExternalId": "7284",
+      "DistrictId": 200,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "East Bay Municipal Utility District Director, Ward 6",
+      "Id": 78,
+      "ExternalId": "7285",
+      "DistrictId": 201,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "East Bay Regional Park District Director, Ward 2",
+      "Id": 79,
+      "ExternalId": "7268",
+      "DistrictId": 195,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "East Bay Regional Park District Director, Ward 4",
+      "Id": 80,
+      "ExternalId": "7269",
+      "DistrictId": 196,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Eden Township Healthcare District Director, Zone 4",
+      "Id": 81,
+      "ExternalId": "7302",
+      "DistrictId": 192,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Members, Board of Directors, Hayward Area Recreation \u0026 Park District",
+      "Id": 82,
+      "ExternalId": "7274",
+      "DistrictId": 193,
+      "VoteFor": 3,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Livermore Area Recreation \u0026 Park District Directors",
+      "Id": 83,
+      "ExternalId": "7275",
+      "DistrictId": 194,
+      "VoteFor": 2,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Members, Board of Directors, Oro Loma Sanitary District",
+      "Id": 84,
+      "ExternalId": "7273",
+      "DistrictId": 198,
+      "VoteFor": 2,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Members, City Council - Albany (RCV)",
+      "Id": 85,
+      "ExternalId": "7220",
+      "DistrictId": 152,
+      "VoteFor": 3,
+      "NumOfRanks": 5,
+      "Disabled": 0
+    },
+    {
+      "Description": "Members, Board of Education - Albany (RCV)",
+      "Id": 86,
+      "ExternalId": "7221",
+      "DistrictId": 152,
+      "VoteFor": 2,
+      "NumOfRanks": 5,
+      "Disabled": 0
+    },
+    {
+      "Description": "Mayor - Berkeley (RCV)",
+      "Id": 87,
+      "ExternalId": "7222",
+      "DistrictId": 153,
+      "VoteFor": 1,
+      "NumOfRanks": 5,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 2 - Berkeley (RCV)",
+      "Id": 88,
+      "ExternalId": "7223",
+      "DistrictId": 165,
+      "VoteFor": 1,
+      "NumOfRanks": 5,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 3 - Berkeley (RCV)",
+      "Id": 89,
+      "ExternalId": "7224",
+      "DistrictId": 166,
+      "VoteFor": 1,
+      "NumOfRanks": 5,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 5 - Berkeley (RCV)",
+      "Id": 90,
+      "ExternalId": "7225",
+      "DistrictId": 167,
+      "VoteFor": 1,
+      "NumOfRanks": 5,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 6 - Berkeley (RCV)",
+      "Id": 91,
+      "ExternalId": "7226",
+      "DistrictId": 168,
+      "VoteFor": 1,
+      "NumOfRanks": 5,
+      "Disabled": 0
+    },
+    {
+      "Description": "Recall Sheng Thao",
+      "Id": 92,
+      "ExternalId": "7360",
+      "DistrictId": 160,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, At-Large - Oakland (RCV)",
+      "Id": 93,
+      "ExternalId": "7245",
+      "DistrictId": 160,
+      "VoteFor": 1,
+      "NumOfRanks": 5,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 1 - Oakland (RCV)",
+      "Id": 94,
+      "ExternalId": "7246",
+      "DistrictId": 176,
+      "VoteFor": 1,
+      "NumOfRanks": 5,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 3 - Oakland (RCV)",
+      "Id": 95,
+      "ExternalId": "7247",
+      "DistrictId": 177,
+      "VoteFor": 1,
+      "NumOfRanks": 5,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 5 - Oakland (RCV)",
+      "Id": 96,
+      "ExternalId": "7248",
+      "DistrictId": 178,
+      "VoteFor": 1,
+      "NumOfRanks": 5,
+      "Disabled": 0
+    },
+    {
+      "Description": "Member, City Council, District 7 - Oakland (RCV)",
+      "Id": 97,
+      "ExternalId": "7249",
+      "DistrictId": 179,
+      "VoteFor": 1,
+      "NumOfRanks": 5,
+      "Disabled": 0
+    },
+    {
+      "Description": "City Attorney - Oakland (RCV)",
+      "Id": 98,
+      "ExternalId": "7250",
+      "DistrictId": 160,
+      "VoteFor": 1,
+      "NumOfRanks": 5,
+      "Disabled": 0
+    },
+    {
+      "Description": "School Director, District 1 - Oakland (RCV)",
+      "Id": 99,
+      "ExternalId": "7277",
+      "DistrictId": 138,
+      "VoteFor": 1,
+      "NumOfRanks": 5,
+      "Disabled": 0
+    },
+    {
+      "Description": "School Director, District 3 - Oakland (RCV)",
+      "Id": 100,
+      "ExternalId": "7278",
+      "DistrictId": 139,
+      "VoteFor": 1,
+      "NumOfRanks": 5,
+      "Disabled": 0
+    },
+    {
+      "Description": "School Director, District 5 - Oakland (RCV)",
+      "Id": 101,
+      "ExternalId": "7279",
+      "DistrictId": 140,
+      "VoteFor": 1,
+      "NumOfRanks": 5,
+      "Disabled": 0
+    },
+    {
+      "Description": "School Director, District 7 - Oakland (RCV)",
+      "Id": 102,
+      "ExternalId": "7280",
+      "DistrictId": 141,
+      "VoteFor": 1,
+      "NumOfRanks": 5,
+      "Disabled": 0
+    },
+    {
+      "Description": "Proposition 2",
+      "Id": 103,
+      "ExternalId": "7312",
+      "DistrictId": 101,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Proposition 3",
+      "Id": 104,
+      "ExternalId": "7313",
+      "DistrictId": 101,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Proposition 4",
+      "Id": 105,
+      "ExternalId": "7314",
+      "DistrictId": 101,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Proposition 5",
+      "Id": 106,
+      "ExternalId": "7315",
+      "DistrictId": 101,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Proposition 6",
+      "Id": 107,
+      "ExternalId": "7316",
+      "DistrictId": 101,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Proposition 32",
+      "Id": 108,
+      "ExternalId": "7317",
+      "DistrictId": 101,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Proposition 33",
+      "Id": 109,
+      "ExternalId": "7318",
+      "DistrictId": 101,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Proposition 34",
+      "Id": 110,
+      "ExternalId": "7319",
+      "DistrictId": 101,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Proposition 35",
+      "Id": 111,
+      "ExternalId": "7320",
+      "DistrictId": 101,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Proposition 36",
+      "Id": 112,
+      "ExternalId": "7321",
+      "DistrictId": 101,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Bond Measure K - San Joaquin Delta CCD",
+      "Id": 113,
+      "ExternalId": "7338",
+      "DistrictId": 116,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Bond Measure L - Albany USD",
+      "Id": 114,
+      "ExternalId": "7322",
+      "DistrictId": 121,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Bond Measure M - Fremont USD",
+      "Id": 115,
+      "ExternalId": "7358",
+      "DistrictId": 123,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Bond Measure N - New Haven USD",
+      "Id": 116,
+      "ExternalId": "7335",
+      "DistrictId": 126,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Bond Measure O - Newark USD",
+      "Id": 117,
+      "ExternalId": "7355",
+      "DistrictId": 127,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure P - Piedmont USD",
+      "Id": 118,
+      "ExternalId": "7336",
+      "DistrictId": 128,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Bond Measure Q - San Lorenzo USD",
+      "Id": 119,
+      "ExternalId": "7339",
+      "DistrictId": 129,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure C - City of Albany",
+      "Id": 120,
+      "ExternalId": "7340",
+      "DistrictId": 152,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure R - City of Albany",
+      "Id": 121,
+      "ExternalId": "7341",
+      "DistrictId": 152,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure S - City of Albany",
+      "Id": 122,
+      "ExternalId": "7342",
+      "DistrictId": 152,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure T - City of Albany",
+      "Id": 123,
+      "ExternalId": "7343",
+      "DistrictId": 152,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure U - City of Albany",
+      "Id": 124,
+      "ExternalId": "7344",
+      "DistrictId": 152,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure V - City of Albany",
+      "Id": 125,
+      "ExternalId": "7357",
+      "DistrictId": 152,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure W - City of Berkeley",
+      "Id": 126,
+      "ExternalId": "7345",
+      "DistrictId": 153,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure X - City of Berkeley",
+      "Id": 127,
+      "ExternalId": "7346",
+      "DistrictId": 153,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure Y - City of Berkeley",
+      "Id": 128,
+      "ExternalId": "7347",
+      "DistrictId": 153,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure Z - City of Berkeley",
+      "Id": 129,
+      "ExternalId": "7348",
+      "DistrictId": 153,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure AA - City of Berkeley",
+      "Id": 130,
+      "ExternalId": "7349",
+      "DistrictId": 153,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure BB - City of Berkeley",
+      "Id": 131,
+      "ExternalId": "7356",
+      "DistrictId": 153,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure CC - City of Berkeley",
+      "Id": 132,
+      "ExternalId": "7350",
+      "DistrictId": 153,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure DD - City of Berkeley",
+      "Id": 133,
+      "ExternalId": "7351",
+      "DistrictId": 153,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure EE - City of Berkeley",
+      "Id": 134,
+      "ExternalId": "7352",
+      "DistrictId": 153,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure FF - City of Berkeley",
+      "Id": 135,
+      "ExternalId": "7353",
+      "DistrictId": 153,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure GG - City of Berkeley",
+      "Id": 136,
+      "ExternalId": "7354",
+      "DistrictId": 153,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure HH - City of Berkeley",
+      "Id": 137,
+      "ExternalId": "7359",
+      "DistrictId": 153,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure II - City of Dublin",
+      "Id": 138,
+      "ExternalId": "7326",
+      "DistrictId": 154,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure JJ - City of Dublin",
+      "Id": 139,
+      "ExternalId": "7327",
+      "DistrictId": 154,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure K1 - City of Hayward",
+      "Id": 140,
+      "ExternalId": "7328",
+      "DistrictId": 157,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure LL - City of Newark",
+      "Id": 141,
+      "ExternalId": "7329",
+      "DistrictId": 159,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure NN - City of Oakland",
+      "Id": 142,
+      "ExternalId": "7331",
+      "DistrictId": 160,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure OO - City of Oakland",
+      "Id": 143,
+      "ExternalId": "7332",
+      "DistrictId": 160,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure PP - City of Pleasanton",
+      "Id": 144,
+      "ExternalId": "7333",
+      "DistrictId": 162,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure QQ - City of Union City",
+      "Id": 145,
+      "ExternalId": "7334",
+      "DistrictId": 164,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    },
+    {
+      "Description": "Measure MM - Oakland Wildfire Prevention Zone",
+      "Id": 146,
+      "ExternalId": "7330",
+      "DistrictId": 191,
+      "VoteFor": 1,
+      "NumOfRanks": 0,
+      "Disabled": 0
+    }
+  ]
+}
